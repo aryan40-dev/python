@@ -1,6 +1,4 @@
 #task1
-print("Simple Calculator")
-
 x = float(input("Enter first number: "))
 y = float(input("Enter second number: "))
 
