@@ -2,7 +2,7 @@
 
 This repository contains Python programs demonstrating basic programming concepts.
 ## Assignment 1
-###[Task 1: Basic Arithmetic Operations](task1.py)
+### [Task 1: Basic Arithmetic Operations](task1.py)
 **File:** `task1.py`  
 **Description:**  
 Takes two numbers as input and performs addition, subtraction, multiplication, and division.
