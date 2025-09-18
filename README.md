@@ -18,7 +18,7 @@ Asks the user to enter their full name and prints a personalized greeting messag
 
 ---
 ## Assignment 2
-###[Task 3: Even or Odd Checker](task3.py)
+### [Task 3: Even or Odd Checker](task3.py)
 **File:** `task3.py`  
 **Description:**  
 Checks if a number entered by the user is even or odd.
@@ -26,7 +26,7 @@ Checks if a number entered by the user is even or odd.
 
 ---
 
-###[Task 4: Sum of First 50 Natural Numbers](task4.py)
+### [Task 4: Sum of First 50 Natural Numbers](task4.py)
 **File:** `task4.py`  
 **Description:**  
 Calculates the sum of the first 50 natural numbers using a loop.
@@ -35,7 +35,7 @@ Calculates the sum of the first 50 natural numbers using a loop.
  ---
 
 ## Assignment 3
-###[task5: Calculate Factorial Using a Function](task5.py)
+### [task5: Calculate Factorial Using a Function](task5.py)
 **File:** `task5.py`  
 **Description**
 1. Define a function named `factorial` that takes a number as an argument.  
@@ -46,7 +46,7 @@ Calculates the sum of the first 50 natural numbers using a loop.
 
 ---
 
-###[task6: Using the Math Module for Calculations](task6.py)
+### [task6: Using the Math Module for Calculations](task6.py)
 **File:**'task6.py'
 **Description**
 1. Ask the user for a number as input.  
